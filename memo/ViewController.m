@@ -16,6 +16,9 @@
 
 - (void)viewDidLoad
 {
+    //hide statusBar (http://stackoverflow.com/questions/12661031/how-to-hide-a-status-bar-in-ios )
+    [[UIApplication sharedApplication] setStatusBarHidden:YES];
+    
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     canvas = [[UIImageView alloc] initWithImage:nil];

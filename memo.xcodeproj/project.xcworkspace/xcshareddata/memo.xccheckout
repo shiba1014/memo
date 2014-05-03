@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>68501182-76A7-4B93-98C4-DD13FB26EA14</string>
+	<key>IDESourceControlProjectName</key>
+	<string>memo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9AA307D8-FCEB-4D64-BA1B-99C4F34CB83D</key>
+		<string>https://github.com/shiba1014/memo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>memo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9AA307D8-FCEB-4D64-BA1B-99C4F34CB83D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shiba1014/memo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9AA307D8-FCEB-4D64-BA1B-99C4F34CB83D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9AA307D8-FCEB-4D64-BA1B-99C4F34CB83D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>memo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
