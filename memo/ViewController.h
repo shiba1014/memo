@@ -8,6 +8,27 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController {
+    
+    UIImageView *canvas;
+    CGPoint touchPoint;
+    
+    int rgb;
+    int color;
+    
+    IBOutlet UISwitch *keshigom;
+    IBOutlet UISegmentedControl *seg;
+    
+    
+    UIImage *capture;
+    
+}
+-(IBAction)save;
+-(void)png;
+-(IBAction)black;
+-(IBAction)red;
+-(IBAction)green;
+-(IBAction)blue;
+-(IBAction)keshigom;
 
 @end
